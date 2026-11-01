@@ -1,0 +1,12 @@
+2.0.0
+- Free camera works in cutscenes (it now replaces the game's camera at the camera manager, so it works for
+  every camera: soldier, vehicle, cutscene).
+- F8: pause / resume the game and cutscenes without the pause menu (the game's own pause).
+- Mouse look of the free camera; [camera] section in Noclip.ini (sensitivity, invert Y).
+- Single-player gate: F6/F8 only work while the single-player local server is running.
+- If a cutscene happened during the flight, the soldier is left where the game put it.
+- Subtitles are hidden together with the HUD while the camera is on.
+
+1.0.0
+- Noclip flight (ghost mode: the soldier stays, the camera flies), HUD hiding, game input filter,
+  safe landing, return to start (Backspace).
